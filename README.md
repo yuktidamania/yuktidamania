@@ -1,2 +1,1 @@
-
-https://yuktidamania.streamlit.app/
+The advertising- https://yuktidamania.streamlit.app/
